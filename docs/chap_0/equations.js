@@ -1,9 +1,9 @@
 var equations = [
   {
-    equation:"\\oint_s \\vec D \\cdot \\vec n da = 0",
-    id:"I.0",
-    bookPage:"NA",
-    label:"NA",
+    equation:"\\oint_S \\vec D \\cdot \\vec n da = 0",
+    id:"I.14",
+    bookPage:"16",
+    label:"Magnetic Field in Bulk material",
     description:"NA",
   },
   {

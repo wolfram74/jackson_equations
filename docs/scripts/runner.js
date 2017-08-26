@@ -27,6 +27,7 @@ Vue.component('equation-list',{
       v-bind:id='equation.id'
       v-bind:bookPage='equation.bookPage'
       v-bind:description='equation.description'
+      v-bind:label='equation.label'
       v-bind:key='equation.id'>
     </equation>
   </div>
