@@ -11,12 +11,11 @@ Vue.component('equation', {
     <span>$&{{equation}}&$</span>
     <p>
       <span>page {{bookPage}}</span>
-      <span>{{label}}</span>
+      <span>{{label}}</span><br>
       <span>{{description}}</span>
     </p>
   </div>
   `,
-  // data: function(){return equations[0]}
 })
 
 Vue.component('equation-list',{
