@@ -143,47 +143,48 @@ var equations = [
     \\int_S'[\\vec J + \\frac{\\partial \\vec D}{\\partial t}]\\cdot \\vec n' da`,
     id:"00.015",
     bookPage:"17",
-    label:"NA",
+    label:"Integral form of Ampére-maxwell law",
     description:"NA",
   },
 
   {
-    equation:`NA`,
+    equation:`\\oint_c \\vec E \\cdot d\\vec l =
+    -\\int_S' \\frac{\\partial \\vec B}{\\partial t} \\cdot \\vec n' da`,
     id:"00.016",
     bookPage:"17",
-    label:"NA",
+    label:"Integral form of Faraday's law",
     description:"NA",
   },
 
   {
-    equation:`NA`,
+    equation:`(\\vec D_2 - \\vec D_1)\\cdot \\vec n = \\sigma`,
     id:"00.017",
-    bookPage:"NA",
-    label:"NA",
+    bookPage:"18",
+    label:"dicontuity of Electric Displacement at boundaries",
     description:"NA",
   },
 
   {
-    equation:`NA`,
+    equation:`(\\vec B_2 - \\vec B_1)\\cdot \\vec n = 0`,
     id:"00.018",
-    bookPage:"NA",
-    label:"NA",
+    bookPage:"18",
+    label:"continuity of magnetic induction across boundaries",
     description:"NA",
   },
 
   {
-    equation:`NA`,
+    equation:`\\vec \\times (\\vec E_2 - \\vec E_1) = 0`,
     id:"00.019",
-    bookPage:"NA",
-    label:"NA",
+    bookPage:"18",
+    label:"Continuity of Electric field curl",
     description:"NA",
   },
 
   {
-    equation:`NA`,
+    equation:`\\vec \\times (\\vec H_2 - \\vec H_1) = \\vec K`,
     id:"00.020",
-    bookPage:"NA",
-    label:"NA",
+    bookPage:"18",
+    label:"Discontinuity of magnetic field curl across surfaces ",
     description:"NA",
   },
 ]
