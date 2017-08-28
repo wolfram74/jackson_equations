@@ -1,1 +1,6 @@
-* {border: red solid;}
+.equation-block {
+  border: black solid;
+  display: inline-block;
+  width: 30%;
+  margin:.5%;
+}
